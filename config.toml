@@ -15,7 +15,7 @@ title = "Go Online"
     mobile = "images/logo/goonline.svg"
     mobile_height = "50px"
     desktop = "images/logo/goonline.svg"
-    # desktop_height = "50px"
+    desktop_height = "150px"
     alt = "Go Online - Web Solutions"
 
   [params.homepage_meta_tags]
