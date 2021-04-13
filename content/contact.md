@@ -16,4 +16,4 @@ We are available for freelance work. Connect with us via phone: +92-321-2956633 
 | Thursday  | 8:30am - 5:00pm |
 | Friday    | 8:30am - 5:00pm |
 | Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Sunday    | Closed          |
