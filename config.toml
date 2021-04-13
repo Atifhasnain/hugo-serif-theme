@@ -66,9 +66,9 @@ title = "Go Online"
   [[menu.footer]]
       name = "About"
       url = "/about/"
-      weight = 3
+      weight = 2
 
   [[menu.footer]]
     name = "Contact"
     url = "/contact/"
-      weight = 2
+      weight = 3
