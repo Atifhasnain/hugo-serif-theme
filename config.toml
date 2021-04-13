@@ -37,19 +37,19 @@ title = "Go Online"
 
 [menu]
   # Main Menu
+[[menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 1
+
   [[menu.main]]
     name = "Services"
     url = "/services/"
-      weight = 1
+      weight = 2
 
   [[menu.main]]
       name = "Team"
       url = "/team/"
-      weight = 2
-
-  [[menu.main]]
-      name = "About"
-      url = "/about/"
       weight = 3
 
   [[menu.main]]
