@@ -12,9 +12,9 @@ title = "Go Online"
     hide_view_all_services = false  # set to true to hide the View All Services button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/goonline.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/goonline.svg"
     desktop_height = "36px"
     alt = "Go Online - Web Solutions"
 
