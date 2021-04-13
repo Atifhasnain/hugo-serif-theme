@@ -11,9 +11,10 @@ We are available for freelance work. Connect with us via phone: +92-321-2956633 
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+| Monday    | 24h             |
+| Tuesday   | 24h             |
+| Wednesday | 24h             |
+| Thursday  | 24h             |
+| Friday    | 24h             |
+| Saturday  | 24h             |
+| Sunday    |Consultation Only|
