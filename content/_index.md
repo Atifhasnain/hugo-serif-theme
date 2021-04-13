@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Let us solve your critical website development challenges.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We love clean design and advanced digital solutions for our loyal clients which gives freedom to focus on their business growth.
