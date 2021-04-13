@@ -9,13 +9,9 @@ We believe in creating new perception for better future & revolutionary era. Acc
 
 Adapting market trends and sharping for future prospects, our core values are what drive us forward in every project we take up.
 
-| Projects Completed | Happy Clients   | Years of Experience  |
+| ##Projects Completed | Happy Clients   | Years of Experience  |
 | ------------------ | --------------- | -------------------- |
 | 60+                | 50+             | 7+                   |
-
-# 60+ Projects Completed
-# 50+ Happy Clients
-# 7+ Years of Experience
 
 ## Postquam tamen
 
