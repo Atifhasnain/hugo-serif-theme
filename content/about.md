@@ -13,5 +13,5 @@ Adapting market trends and sharping for future prospects, our core values are wh
 | ------------------ | --------------- | -------------------- |
 | 60+                | 50+             | 7+                   |
 
-[MyPuppies](https://www.example.com)
-![GoOnoline](images/logo/Goonline1.svg)
+[MyPuppies](https://www.mypuppies.net.com)
+![GoOnoline](Goonline1.svg)
