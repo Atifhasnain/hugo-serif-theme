@@ -13,4 +13,4 @@ Adapting market trends and sharping for future prospects, our core values are wh
 | ------------------ | --------------- | -------------------- |
 | 60+                | 50+             | 7+                   |
 
-![GoOnoline1](images/illustrations/reading.svg)
+![GoOnoline1](static/images/illustrations/reading.svg)
