@@ -3,7 +3,7 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-# Our Vision
+# We create digital ideas that are bigger, bolder, braver and better.
 
 We believe in creating new perception for better future & revolutionary era. Accelerating more power to the innovative digital solutions. Learning, experimentation and innovation are the keys to providing the best available services to our clients.
 
@@ -13,5 +13,4 @@ Adapting market trends and sharping for future prospects, our core values are wh
 | ------------------ | --------------- | -------------------- |
 | 60+                | 50+             | 7+                   |
 
-[MyPuppies](https://www.mypuppies.net.com)
-![GoOnoline](Goonline1.svg)
+![GoOnoline1](images/illustrations/reading.svg)
