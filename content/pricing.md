@@ -67,8 +67,3 @@ pricing:
     - Weekly Backup & Updates
     - 7 Revisions
 ---
-
-| Starter                   | Standard                    | Premium                   |
-| ------------------------- | --------------------------- | ------------------------- |
-| $9,99/Year                | $19,99/Year                 | 29,99/Year                |
-| $9,99/Year                | $19,99/Year                 | 29,99/Year                |
