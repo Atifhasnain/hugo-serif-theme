@@ -68,7 +68,3 @@ pricing:
     - 7 Revisions
         
 ############################# call to action #################################
-cta:
-  enable : true
-  # call to action content comes from "_index.md"
----
